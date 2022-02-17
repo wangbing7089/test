@@ -51,5 +51,6 @@ public class Student {
         Student stu1 = new Student(1,"张三",25);
         Student stu2 = new Student(1,"张三",35);
         System.out.println(stu1.equals(stu2));
+        System.out.println("测试GIT二次更新");
     }
 }
